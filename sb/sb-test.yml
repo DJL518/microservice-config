@@ -8,4 +8,4 @@ name: sbbbdev
 ---
 spring:
   profiles: test
-name: sbbbtest
+name: update
